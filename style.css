@@ -1,0 +1,14 @@
+html {
+    height: 100%;
+    width: 100%;
+}
+
+h1, h2 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', 
+    Geneva, Verdana, sans-serif;
+    color: palevioletred;
+}
+
+p { 
+    font-family: Aptos, Arial, Arial, Helvetica, sans-serif;
+}
